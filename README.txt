@@ -1,0 +1,1 @@
+Upload alle bestanden uit deze map naar GitHub. Vervang in contact.html de Formspree-link voordat het contactformulier werkt. Controleer KvK 12345678 voor publicatie.
